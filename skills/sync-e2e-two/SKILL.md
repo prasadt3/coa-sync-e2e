@@ -5,4 +5,4 @@ description: Second throwaway skill used to test the import-time auto-update che
 
 # Sync E2E two
 
-Version 1.
+Version 2 (import-time auto-update).
