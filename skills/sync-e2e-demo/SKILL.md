@@ -5,4 +5,6 @@ description: Throwaway skill used to test the GitHub update banner end to end.
 
 # Sync E2E demo
 
-Version 2 (upstream change).
+Version 3 (upstream change).
+
+Prasad Thammineni
