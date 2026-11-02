@@ -5,6 +5,6 @@ description: Throwaway skill used to test the GitHub update banner end to end.
 
 # Sync E2E demo
 
-Version 6 (stale-guard test).
+Version 7 (stale-guard live test).
 
 Prasad Thammineni
